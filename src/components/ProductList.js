@@ -4,7 +4,7 @@ import Title from './Title';
 
 import {ProductConsumer} from '../context';
 
-export default class extends Component {
+export default class ProductList extends Component {
  
   render() {
    
